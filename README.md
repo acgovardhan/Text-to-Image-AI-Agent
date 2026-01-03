@@ -42,12 +42,12 @@ This is a Text-to-Image AI Agent built using Next.js and Tailwind CSS. The proje
 
 ## Tech Stack
 
-Frontend & Framework: Next.js (React framework)
-Styling: Tailwind CSS
-AI Model: [FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) (hosted on Hugging Face)
-Server-side API: Next.js server-side functions
-Deployment: Vercel
-Other Tools: NPM/Yarn, Git, ESLint
+- Frontend & Framework: Next.js (React framework)
+- Styling: Tailwind CSS
+- AI Model: [FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) (hosted on Hugging Face)
+- Server-side API: Next.js server-side functions
+- Deployment: Vercel
+- Other Tools: NPM/Yarn, Git, ESLint
 
 ## Workflow
 
