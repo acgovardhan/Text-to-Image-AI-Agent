@@ -19,7 +19,7 @@ export async function generateImageFromHuggingFace(prompt: string): Promise<stri
     body: JSON.stringify({
       inputs: prompt,
       parameters: {
-        // Optional: you can specify resolution etc
+        seed : Math.floor(Math.random() * 100) + 1
       }
     }),
   });
